@@ -1,4 +1,4 @@
-### Hi there, I'm Al - aka [blank][website] 👋
+### Hi there, I'm Al - aka [blank][website] :wave:
 
 <!--
 **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
