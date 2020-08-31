@@ -33,11 +33,3 @@ Desc:   **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because
 <br />
 <br />
 
-<!--
-[LinkedIn]: https://www.linkedin.com/in/al-timofeyev-235542129/
--->
-
-<!--
-Full list of GitHub emojis at:
-https://gist.github.com/rxaviers/7360908
--->
