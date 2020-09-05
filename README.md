@@ -21,12 +21,11 @@ Desc:   **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][GitHub]
+[<img align="left" alt="Java2" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][GitHub]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][GitHub]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][GitHub]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][GitHub]
-[<img align="left" alt="JetBrains" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/jetbrains.svg" />][GitHub]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />][GitHub]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jetbrains.svg" />][GitHub]
+[<img align="left" alt="JetBrains" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />][GitHub]
 [<img align="left" alt="AndroidStudio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][GitHub]
 [<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][GitHub]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
