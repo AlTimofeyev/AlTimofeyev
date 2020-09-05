@@ -20,8 +20,7 @@ Desc:   **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][GitHub]
-[<img align="left" alt="Java2" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][GitHub]
+[<img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][GitHub]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][GitHub]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][GitHub]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][GitHub]
@@ -35,9 +34,8 @@ Desc:   **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because
 <br />
 
 <!-- My GitHub Stats -->
-<!--
-<img align="left" alt="Al's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlTimofeyev&show_icons=true&hide_border=true" />
--->
+<img align="left" alt="Al's Github Stats" src="https://github-readme-stats.altimofeyev.vercel.app/api?username=AlTimofeyev&show_icons=true&hide_border=true" />
+
 
 [GitHub]: https://github.com/AlTimofeyev/
 <!--
