@@ -35,7 +35,6 @@ Desc:   **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because
 
 <!-- My GitHub Stats -->
 <img align="left" alt="Al's Github Stats" src="https://github-readme-stats.altimofeyev.vercel.app/api?username=AlTimofeyev&show_icons=true&hide_border=true" />
-![Al's github stats](https://github-readme-stats.altimofeyev.vercel.app/api?username=AlTimofeyev&show_icons=true&hide_border=true)
 
 
 [GitHub]: https://github.com/AlTimofeyev/
