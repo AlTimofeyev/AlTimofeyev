@@ -16,7 +16,7 @@ Desc:   **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because
 - :tea: Pronouns: He/Him
 - :zap: Fun Fact: I like to draw and game in my free time to maintain my creativity
 
-<br />
+
 
 ### Languages and Tools:
 
@@ -31,17 +31,16 @@ Desc:   **AlTimofeyev/AlTimofeyev** is a ✨ _special_ ✨ repository because
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][GitHub]
 
 <br />
-<br />
 
+---
 <!-- My GitHub Stats -->
-<img align="left" alt="Al's Github Stats" src="https://github-readme-stats-dfwk7jir9-altimofeyev.vercel.app/api?username=AlTimofeyev&show_icons=true&hide_border=true" />
+<img align="left" alt="Al's Github Stats" src="https://github-readme-stats-dfwk7jir9-altimofeyev.vercel.app/api?username=AlTimofeyev&show_icons=true&hide_border=true" />  
 
-<br />
-[![Top Langs](https://github-readme-stats-dfwk7jir9-altimofeyev.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlTimofeyev/github-readme-stats)
-
+<!-- My Top Lanuages -->
+<img align="left" alt="Top Languages" src="https://github-readme-stats-dfwk7jir9-altimofeyev.vercel.app/api/top-langs/?username=AlTimofeyev&layout=compact&hide_border=true&langs_count=8" />
 
 <!--
-OLD READ ME STATS
+OLD READ ME STATS DELETE
 <img align="left" alt="Al's Github Stats" src="https://github-readme-stats.altimofeyev.vercel.app/api?username=AlTimofeyev&show_icons=true&hide_border=true" />
 -->
 
